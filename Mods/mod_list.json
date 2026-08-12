@@ -11,7 +11,7 @@
     "Name": "Hidden Room ESP",
     "Type": "Melon",
     "Author": "glorious_fawn_72306",
-    "Version": "1.2.1",
+    "Version": "2.4.0",
     "Description": "このModは隠し部屋に繋がる亀裂を強調表示します",
     "Url": "https://github.com/Mira090/SephiriaModManager-Releases/raw/refs/heads/main/Mods/HiddenRoomESP_melon.dll"
   },
@@ -19,7 +19,7 @@
     "Name": "BossEntryAnnouncer",
     "Type": "Melon",
     "Author": "glorious_fawn_72306",
-    "Version": "1.2.1",
+    "Version": "1.1.0",
     "Description": "ミニボス部屋に入ると、誰が最初に入ったかを知らせるシステムメッセージが表示されます",
     "Url": "https://github.com/Mira090/SephiriaModManager-Releases/raw/refs/heads/main/Mods/BossEntryAnnouncer_melon.dll"
   },
