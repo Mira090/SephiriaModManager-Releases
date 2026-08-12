@@ -1,0 +1,34 @@
+[
+  {
+    "Id": "Preset Slot Expander",
+    "Type": "Melon",
+    "Author": "glorious_fawn_72306",
+    "Version": "1.2.1",
+    "Description": "このModを使用すると、プリセットの数が99個まで増えます",
+    "Url": "https://github.com/Mira090/SephiriaModManager-Releases/raw/refs/heads/main/Mods/PresetSlotExpander_melon.dll"
+  },
+  {
+    "Id": "Hidden Room ESP",
+    "Type": "Melon",
+    "Author": "glorious_fawn_72306",
+    "Version": "1.2.1",
+    "Description": "このModは隠し部屋に繋がる亀裂を強調表示します",
+    "Url": "https://github.com/Mira090/SephiriaModManager-Releases/raw/refs/heads/main/Mods/HiddenRoomESP_melon.dll"
+  },
+  {
+    "Id": "BossEntryAnnouncer",
+    "Type": "Melon",
+    "Author": "glorious_fawn_72306",
+    "Version": "1.2.1",
+    "Description": "ミニボス部屋に入ると、誰が最初に入ったかを知らせるシステムメッセージが表示されます",
+    "Url": "https://github.com/Mira090/SephiriaModManager-Releases/raw/refs/heads/main/Mods/BossEntryAnnouncer_melon.dll"
+  },
+  {
+    "Id": "BepInExToMelon.Adapter",
+    "Type": "Lib",
+    "Author": "",
+    "Version": "0.1.0",
+    "Description": "BepInExのModをMelonに変換し動作させるために必要なライブラリ",
+    "Url": "https://github.com/Mira090/SephiriaModManager-Releases/raw/refs/heads/main/Mods/BepInExToMelon.Adapter.dll"
+  }
+]
