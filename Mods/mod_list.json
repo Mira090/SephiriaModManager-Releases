@@ -24,11 +24,11 @@
     "Url": "https://github.com/Mira090/SephiriaModManager-Releases/raw/refs/heads/main/Mods/BossEntryAnnouncer_melon.dll"
   },
   {
-    "Name": "BepInExToMelon.Adapter",
-    "Type": "Lib",
-    "Author": "",
-    "Version": "0.1.0",
-    "Description": "BepInExのModをMelonに変換し動作させるために必要なライブラリ",
-    "Url": "https://github.com/Mira090/SephiriaModManager-Releases/raw/refs/heads/main/Mods/BepInExToMelon.Adapter.dll"
+    "Name": "FloorScaler",
+    "Type": "Horay",
+    "Author": "Osi",
+    "Version": "2.2.0",
+    "Description": "階層別に敵の数やHPを調整できます",
+    "Url": "https://github.com/Mira090/SephiriaModManager-Releases/raw/refs/heads/main/Mods/FloorScaler.zip"
   }
 ]
