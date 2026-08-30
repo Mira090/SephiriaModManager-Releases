@@ -38,5 +38,13 @@
     "Version": "3.119.0",
     "Description": "階層別に敵の数やHPを調整できます",
     "Url": "https://github.com/Mira090/SephiriaModManager-Releases/raw/refs/heads/main/Mods/RaidRaid.zip"
+  },
+  {
+    "Name": "HardMode60Frame",
+    "Type": "Horay",
+    "Author": "Osi",
+    "Version": "1.0.0",
+    "Description": "難易度60をクリアしたコスチュームのフレームを豪華にします",
+    "Url": "https://github.com/Mira090/SephiriaModManager-Releases/raw/refs/heads/main/Mods/HardMode60Frame.zip"
   }
 ]
