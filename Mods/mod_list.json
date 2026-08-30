@@ -30,5 +30,13 @@
     "Version": "3.3.2",
     "Description": "階層別に敵の数やHPを調整できます",
     "Url": "https://github.com/Mira090/SephiriaModManager-Releases/raw/refs/heads/main/Mods/FloorScaler.zip"
+  },
+  {
+    "Name": "RaidRaid",
+    "Type": "Horay",
+    "Author": "Osi",
+    "Version": "3.119.0",
+    "Description": "階層別に敵の数やHPを調整できます",
+    "Url": "https://github.com/Mira090/SephiriaModManager-Releases/raw/refs/heads/main/Mods/RaidRaid.zip"
   }
 ]
